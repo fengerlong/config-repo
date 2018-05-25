@@ -13,7 +13,7 @@ spring:
       discovery:
         enabled: false
         service-id: CONFIG
-      profile: test1
+      profile: test
 eureka:
   client:
     service-url:
