@@ -32,4 +32,4 @@ server:
 #      serviceId: product
 management:
   security:
-    enabled: true
+    enabled: flase
